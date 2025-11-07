@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\xxxch\Desktop\oop\main.cpp(85,3): warning C4102: 'defualt': unreferenced label
+  measurementStorage.cpp
+  sensor.cpp
+  Generating Code...
+  oop_assignment1.vcxproj -> C:\Users\xxxch\Desktop\oop\x64\Debug\oop_assignment1.exe
